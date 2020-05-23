@@ -1,2 +1,2 @@
-# Equaltrue-Core
-Equaltrue Core Module
+# Equaltrue-Base
+Equaltrue Base Module
